@@ -1,0 +1,20 @@
+.green{
+    height: 400vh;
+    width: 100%;
+    position: relative;
+}
+.result-green{
+    background: green;
+    height: 20vh;
+}
+.green-top h1,
+.green-top p,
+.green-top h3{
+    color: #161616;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-transform: uppercase;
+    font-family: Poppins;
+    font-weight: 600;
+}

@@ -1,0 +1,60 @@
+
+.ct-f {
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background-color:#161616 ;
+}
+.card-body h4{
+    color: white;
+    text-transform: uppercase;
+    font-family: Calibri;
+    font-weight: 600;
+}
+.card-body p{
+
+    text-transform: uppercase;
+    font-family: Calibri;
+    font-weight: 600;
+}
+.card-a{
+    width: 30rem;
+}
+.card-a:hover{
+   transition: all 0.4s ease;
+    box-shadow: 5px 10px 20px 1px rgba(0,0,0,253)!important ;
+}
+.c-b{
+    padding: 3rem 0!important;
+}
+.p-card-text{
+    font-size: 0.9rem;
+    padding: 0.4rem 1.9rem;
+
+
+}
+.ct-f.row{
+    padding-top: 6rem;
+
+
+}
+.overflow{
+    overflow: hidden;
+}
+.c-i-t{
+    transform: scale(1);
+    transition: transform 0.5s ease;
+}
+.c-i-t:hover{
+    transform: scale(1.8);
+}
+@media screen and (max-width: 960px){
+    .card-a{
+        width: 100%;
+    }
+
+}
+@media screen and (max-width: 1024px){
+    .card-a{
+        width: 100%;
+    }
+}

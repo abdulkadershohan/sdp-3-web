@@ -1,0 +1,20 @@
+.avg{
+    height: 400vh;
+    width: 100%;
+    position: relative;
+}
+.result-avg{
+    background: yellow;
+    height: 20vh;
+}
+.avg-top h1,
+.avg-top p,
+.avg-top h3{
+    color: #161616;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-transform: uppercase;
+    font-family: Poppins;
+    font-weight: 600;
+}

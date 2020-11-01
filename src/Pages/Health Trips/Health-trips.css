@@ -1,0 +1,66 @@
+
+.health-trips-img{
+    background-image: url("run2.svg");
+    -webkit-background-size:cover;
+    background-position: center center;
+    height: 100%;
+    width: 100%;
+    align-content: start;
+    background-size: 1480px;
+    background-repeat: no-repeat;
+}
+
+.health-trips{
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+    padding-left: 1rem;
+
+}
+.health-trips h1{
+
+    text-align: center;
+    padding-top: 1rem;
+    height: 5rem;
+
+    text-transform: uppercase;
+    font-weight: bold;
+    color: green;
+}
+
+.health-trips ol{
+
+    padding: 20px;
+
+}
+.health-trips ul{
+
+    padding: 20px;
+
+}
+.health-trips li{
+
+    padding: 5px;
+    margin-left: 35px;
+    font-size: 1.5rem;
+
+}
+.health-trips ul li{
+    margin: 5px;
+
+}
+.health-trips h4{
+    padding: 10px 20px ;
+    color: gray;
+}
+
+
+@media screen and (max-width: 960px){
+    .health-trips h1{
+        font-size: 1.6rem;
+    }
+    .health-trips-img{
+        background-image: none;
+        background: wheat;
+    }
+
+}

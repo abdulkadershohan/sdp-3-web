@@ -1,0 +1,77 @@
+.danger{
+    height: 150vh;
+    width: 100%;
+    position: relative;
+}
+.result-danger{
+    background: red;
+    height: 20vh;
+}
+.danger-top h1,
+.danger-top p,
+.danger-top h3{
+
+    color: #f1f1f1;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-transform: uppercase;
+    font-family: Poppins;
+    font-weight: 600;
+}
+.hotline{
+    background: #f1f1f1;
+}
+.card-danger{
+    position: relative;
+    height: 50vh;
+    width: 100%;
+    margin-top: 10px;
+}
+.danger-card-title{
+    position: relative;
+    background: red;
+    height: 5rem;
+    text-transform: uppercase;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    transform: translateY(-10px);
+}
+.danger-card-title h1{
+    font-weight: 600;
+    font-family: Poppins;
+    color: #f1f1f1;
+}
+.card-danger-content {
+   align-items: center;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 1px;
+    transform: translateY(-25px);
+    background-image: url("Group 3.jpg");
+    background-position: center;
+    height: 20rem;
+    width: 100%;
+    background-size: 100% 100%;
+}
+.card-danger-content li{
+    text-transform: uppercase;
+    list-style: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: #292929;
+    font-family: Poppins;
+
+
+}
+.card-danger-content li a{
+    text-decoration: none;
+    margin: 20px;
+    padding: 10px;
+}
+.card-danger-content li a:hover{
+   background: #161616;
+    border-radius: 20px;
+    transition: all ease 0.4s;
+}

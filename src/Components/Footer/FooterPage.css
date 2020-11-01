@@ -1,0 +1,44 @@
+.footer{
+    font-weight: bold;
+    position: relative;
+    bottom: 0;
+    background-image: url("Group 2.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+.Link:hover{
+    color: green;
+
+    border-bottom-color: #6d76f7;
+
+
+}
+
+
+.social-icon{
+    list-style: none;
+
+}
+.social-icon li{
+    color: green;
+}
+.text-uppercase{
+    color: #6d76f7;
+    font-size: 1.6rem;
+}
+.about-links{
+    text-decoration: none;
+}
+.social-icon li:hover{
+    color: #6d76f7;
+    border-style: outset;
+    border-bottom-color: #6d76f7;
+}
+@media screen and (max-width: 960px){
+    .a{
+        background-image: none;
+
+    }
+}

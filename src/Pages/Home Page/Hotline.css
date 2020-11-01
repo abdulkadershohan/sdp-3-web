@@ -1,0 +1,50 @@
+.useful-numbers-container{
+    background-image: url("banner.jpg");
+    background-position: center;
+    height: 30rem;
+    width: 100%;
+    background-size: 100% 100%;
+    transform: translate(-5px );
+
+
+}
+.useful-number{
+
+    align-items: center;
+    list-style: none;
+    font-size: 1.5rem;
+    font-family: Calibri;
+    font-weight: bold;
+    color: darkred;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.useful-number li{
+    padding: 10px;
+
+}
+.useful-number a{
+    text-decoration: none;
+}
+.useful-numbers-container h2{
+    color: red;
+
+    padding-bottom: 10px;
+    font-weight: bold;
+    padding-top: 15px;
+
+}
+
+@media screen and (max-width: 960px){
+    .useful-number{
+        display: list-item;
+        height: inherit;
+    }
+    .useful-numbers-container{
+        background-image: none;
+    }
+
+
+}
