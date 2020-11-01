@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/sdp-3-web/static/css/main.28272b07.chunk.css",
+    "main.js": "/sdp-3-web/static/js/main.215af8ce.chunk.js",
+    "main.js.map": "/sdp-3-web/static/js/main.215af8ce.chunk.js.map",
+    "runtime-main.js": "/sdp-3-web/static/js/runtime-main.5aa8f47f.js",
+    "runtime-main.js.map": "/sdp-3-web/static/js/runtime-main.5aa8f47f.js.map",
+    "static/css/2.2d63d0b4.chunk.css": "/sdp-3-web/static/css/2.2d63d0b4.chunk.css",
+    "static/js/2.f2255127.chunk.js": "/sdp-3-web/static/js/2.f2255127.chunk.js",
+    "static/js/2.f2255127.chunk.js.map": "/sdp-3-web/static/js/2.f2255127.chunk.js.map",
+    "index.html": "/sdp-3-web/index.html",
+    "precache-manifest.a6944e069f7b91dce12fe0ea8262e8ae.js": "/sdp-3-web/precache-manifest.a6944e069f7b91dce12fe0ea8262e8ae.js",
+    "service-worker.js": "/sdp-3-web/service-worker.js",
+    "static/css/2.2d63d0b4.chunk.css.map": "/sdp-3-web/static/css/2.2d63d0b4.chunk.css.map",
+    "static/css/main.28272b07.chunk.css.map": "/sdp-3-web/static/css/main.28272b07.chunk.css.map",
+    "static/js/2.f2255127.chunk.js.LICENSE.txt": "/sdp-3-web/static/js/2.f2255127.chunk.js.LICENSE.txt",
+    "static/media/FooterPage.css": "/sdp-3-web/static/media/Group 2.03d0e78a.jpg",
+    "static/media/Danger.css": "/sdp-3-web/static/media/Group 3.5e531899.jpg",
+    "static/media/HandWash.jpg": "/sdp-3-web/static/media/HandWash.9d078dc8.jpg",
+    "static/media/World Map.jpg": "/sdp-3-web/static/media/World Map.b763810a.jpg",
+    "static/media/Hotline.css": "/sdp-3-web/static/media/banner.522fd4ee.jpg",
+    "static/media/input-form.css": "/sdp-3-web/static/media/covid.6ec3096d.jpg",
+    "static/media/Health-trips.css": "/sdp-3-web/static/media/run2.73d2d24b.svg",
+    "static/media/survey.jpg": "/sdp-3-web/static/media/survey.512d46d4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aa8f47f.js",
+    "static/css/2.2d63d0b4.chunk.css",
+    "static/js/2.f2255127.chunk.js",
+    "static/css/main.28272b07.chunk.css",
+    "static/js/main.215af8ce.chunk.js"
+  ]
+}
